@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="test-package-a.radionov",
-    version="0.0.1",
+    name="testpackage_radionov",
+    version="0.0.2",
     author="Andrey Radionov",
     author_email="andrey.radionoff@gmail.com",
     description="A small example package",
